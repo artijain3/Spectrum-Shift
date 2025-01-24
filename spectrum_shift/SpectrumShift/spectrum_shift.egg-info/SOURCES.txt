@@ -1,0 +1,11 @@
+setup.py
+SpectrumShift/__init__.py
+SpectrumShift/generate.py
+SpectrumShift/views/__init__.py
+SpectrumShift/views/view_base.py
+SpectrumShift/views/view_colorblind.py
+SpectrumShift/views/view_identity.py
+spectrum_shift.egg-info/PKG-INFO
+spectrum_shift.egg-info/SOURCES.txt
+spectrum_shift.egg-info/dependency_links.txt
+spectrum_shift.egg-info/top_level.txt
